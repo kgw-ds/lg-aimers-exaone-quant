@@ -1,0 +1,13 @@
+total 2.4G
+-rwxr-xr-x 1 gjustin1 gjustin1  13K Jan 27 13:15 LICENSE
+-rwxr-xr-x 1 gjustin1 gjustin1  37K Jan 27 13:15 README.md
+drwxr-xr-x 2 gjustin1 gjustin1 4.0K Jan 27 13:15 assets
+-rwxr-xr-x 1 gjustin1 gjustin1 5.4K Jan 27 13:15 chat_template.jinja
+-rwxr-xr-x 1 gjustin1 gjustin1 1.5K Jan 27 13:15 config.json
+-rwxr-xr-x 1 gjustin1 gjustin1  134 Jan 27 13:15 generation_config.json
+-rwxr-xr-x 1 gjustin1 gjustin1 1.2M Jan 27 13:15 merges.txt
+-rwxr-xr-x 1 gjustin1 gjustin1 2.4G Jan 27 13:15 model.safetensors
+-rwxr-xr-x 1 gjustin1 gjustin1 6.6K Jan 27 13:15 special_tokens_map.json
+-rwxr-xr-x 1 gjustin1 gjustin1 7.6M Jan 27 13:15 tokenizer.json
+-rwxr-xr-x 1 gjustin1 gjustin1  69K Jan 27 13:15 tokenizer_config.json
+-rwxr-xr-x 1 gjustin1 gjustin1 1.9M Jan 27 13:15 vocab.json

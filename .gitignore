@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large model weights (DO NOT COMMIT)
+model/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# HuggingFace cache (usually huge)
+.cache/
+**/.cache/huggingface/
+
+# Temporary
+tmp/
+*.tmp
